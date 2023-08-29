@@ -18,8 +18,8 @@
 
 -----
 
-#### [Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/tree/main/Algoritmos%20Geneticos)
+#### [Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/tree/main/Programacion%20Genetica)
 
-- [Set de Ejercicios - Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/blob/main/Algoritmos%20Geneticos/AI_Ejercicios_de_Algoritmos_Geneticos.ipynb)
+- [Set de Ejercicios - Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/blob/main/Programacion%20Genetica/AI_Ejercicios_de_Programacion_Genetica.ipynb)
 
 -----
