@@ -24,6 +24,6 @@
 
 - [Set de Ejercicios - Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/blob/main/Programacion%20Genetica/AI_Ejercicios_de_Programacion_Genetica.ipynb)
 
--- [Extra - Test de Imagen de color bajo el estandar de Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/blob/main/Programacion%20Genetica/Extra%20-%20Programacion%20Genetica.ipynb)  
+- [Extra - Test de Imagen de color bajo el estandar de Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/blob/main/Programacion%20Genetica/Extra%20-%20Programacion%20Genetica.ipynb)  
 
 -----
