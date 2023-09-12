@@ -16,10 +16,14 @@
 
 - [Set de Ejercicios - Algoritmos Geneticos](https://github.com/mcurream/IAMR-2023-2/blob/main/Algoritmos%20Geneticos/AI_Ejercicios_de_Algoritmos_Geneticos.ipynb)
 
+- [Extra - Test de Imagen de color bajo el estandar de Algoritmos Genèticos](https://github.com/mcurream/IAMR-2023-2/blob/main/Algoritmos%20Geneticos/Extra%20-%20Algoritmos%20Geneticos.ipynb) 
+
 -----
 
 #### [Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/tree/main/Programacion%20Genetica)
 
 - [Set de Ejercicios - Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/blob/main/Programacion%20Genetica/AI_Ejercicios_de_Programacion_Genetica.ipynb)
+
+-- [Extra - Test de Imagen de color bajo el estandar de Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/blob/main/Programacion%20Genetica/Extra%20-%20Programacion%20Genetica.ipynb)  
 
 -----
