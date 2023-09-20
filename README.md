@@ -28,9 +28,9 @@
 
 -----
 
-#### [Machine Learning](https://github.com/mcurream/IAMR-2023-2/tree/main/Machine%20Learning)
+#### [Redes Neuronales](https://github.com/mcurream/IAMR-2023-2/tree/main/Redes%20Neuronales)
 
-- [Modelo de Red Neuronal - Test de Imagen de Color](https://github.com/mcurream/IAMR-2023-2/blob/main/Machine%20Learning/AI_Ejercicios_Machine_Learning_Color.ipynb)
+- [Modelo de Red Neuronal - Test de Imagen de Color](https://github.com/mcurream/IAMR-2023-2/blob/main/Redes%20Neuronales/AI_Ejercicio_Red_Neuronal_Color.ipynb)
 
 -----
 
