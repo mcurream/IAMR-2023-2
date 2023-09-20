@@ -27,3 +27,9 @@
 - [Extra - Test de Imagen de color bajo el estandar de Programacion Genetica](https://github.com/mcurream/IAMR-2023-2/blob/main/Programacion%20Genetica/Extra%20-%20Programacion%20Genetica.ipynb)  
 
 -----
+
+#### [Transformers](https://github.com/mcurream/IAMR-2023-2/tree/main/Transformers)
+
+- [DataCamp - Building a Transformer on PyTorch](https://github.com/mcurream/IAMR-2023-2/blob/main/Transformers/DataCamp_Tranformers_with_PyTorch.ipynb)
+
+-----
