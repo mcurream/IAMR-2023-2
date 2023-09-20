@@ -28,6 +28,12 @@
 
 -----
 
+#### [Machine Learning](https://github.com/mcurream/IAMR-2023-2/tree/main/Machine%20Learning)
+
+- [Modelo de Red Neuronal - Test de Imagen de Color](https://github.com/mcurream/IAMR-2023-2/blob/main/Machine%20Learning/AI_Ejercicios_Machine_Learning_Color.ipynb)
+
+-----
+
 #### [Transformers](https://github.com/mcurream/IAMR-2023-2/tree/main/Transformers)
 
 - [DataCamp - Building a Transformer on PyTorch](https://github.com/mcurream/IAMR-2023-2/blob/main/Transformers/DataCamp_Tranformers_with_PyTorch.ipynb)
