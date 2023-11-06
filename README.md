@@ -37,5 +37,7 @@
 #### [Transformers](https://github.com/mcurream/IAMR-2023-2/tree/main/Transformers)
 
 - [DataCamp - Building a Transformer on PyTorch](https://github.com/mcurream/IAMR-2023-2/blob/main/Transformers/DataCamp_Tranformers_with_PyTorch.ipynb)
+  
+- [Extra - Rediseñando un Transformer](https://github.com/mcurream/IAMR-2023-2/blob/main/Transformers/Extra_Transformers.ipynb)
 
 -----
